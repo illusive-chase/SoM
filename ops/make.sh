@@ -30,6 +30,6 @@ else
     exit 1
 fi
 
-python -m pip install git+https://github.com/facebookresearch/detectron2.git
+python -m pip install git+https://ghfast.top/github.com/facebookresearch/detectron2.git
 
 python setup.py build install
